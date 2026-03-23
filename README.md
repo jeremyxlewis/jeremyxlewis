@@ -11,10 +11,20 @@ Linux tinkerer building things that live on the internet.
 ## About Me
 
 - 🔧 Currently building private projects
-- 🐧 Running Ubuntu + Arch Linux with Docker and Tailscale
-- 🛠️ Tools: OpenCode, Claude Code, Omarchy (Hyprland dotfiles)
 - 🎲 Built [dnd](https://github.com/jeremyxlewis/dnd) - D&D CLI with dice roller, spell/monster lookup, NPC generator
 - 🖨️ Modded my Ender 3 "Thesus" with Klipper firmware
+
+## OS
+
+Omarchy, Arch, Ubuntu
+
+## Tools
+
+OpenCode, Claude Code, Tailscale, Ollama, Obsidian
+
+## Selfhosting
+
+Homelab services
 
 ## Tech Stack
 
@@ -24,7 +34,6 @@ Linux tinkerer building things that live on the internet.
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
@@ -33,7 +42,7 @@ Linux tinkerer building things that live on the internet.
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeremyxlewis&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=8b949e" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyxlewis&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=8b949e" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyxlewis&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=8b949e&exclude_repo=jeremyxlewis/dnd" />
 </div>
 
 ## Featured Projects
